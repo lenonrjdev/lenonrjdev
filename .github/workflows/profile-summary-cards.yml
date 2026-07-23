@@ -1,0 +1,30 @@
+name: Gerar estatísticas do perfil
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 3 * * *"
+
+jobs:
+  generate-cards:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Gerar cartões do GitHub
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: lenonrjdev
+          BRANCH_NAME: main
+          UTC_OFFSET: -3
+          EXCLUDE: ""
+          AUTO_PUSH: true
+          THEME: github_dark

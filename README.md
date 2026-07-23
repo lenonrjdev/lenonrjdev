@@ -45,9 +45,9 @@ Repositório: https://github.com/lenonrjdev/lenonrjdev
 
 ---
 
-<!-- INFORMAÇÕES DO PERFIL -->
+<!-- INFORMAÇÕES DO PERFIL — UMA ÚNICA LINHA -->
 <p align="center">
-  <a href="https://github.com/lenonrjdev"><img height="28" src="https://komarev.com/ghpvc/?username=lenonrjdev&label=Visualiza%C3%A7%C3%B5es&color=318CE7&style=for-the-badge" alt="Visualizações do perfil" /></a>&nbsp;<a href="https://github.com/lenonrjdev?tab=repositories"><img height="28" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Flenonrjdev" alt="Total de estrelas no GitHub" /></a>&nbsp;<a href="https://github.com/lenonrjdev?tab=followers"><img height="28" src="https://custom-icon-badges.herokuapp.com/github/followers/lenonrjdev?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white" alt="Seguidores no GitHub" /></a>
+  <a href="https://github.com/lenonrjdev"><img height="28" src="https://komarev.com/ghpvc/?username=lenonrjdev&label=Visualiza%C3%A7%C3%B5es&color=318CE7&style=for-the-badge" alt="Visualizações do perfil" /></a>&nbsp;<a href="https://github.com/lenonrjdev?tab=repositories"><img height="28" src="https://img.shields.io/github/stars/lenonrjdev?affiliations=OWNER&label=Stars&style=for-the-badge&color=318CE7&labelColor=505050&logo=github" alt="Total de estrelas no GitHub" /></a>&nbsp;<a href="https://github.com/lenonrjdev?tab=followers"><img height="28" src="https://img.shields.io/github/followers/lenonrjdev?label=Seguidores&style=for-the-badge&color=318CE7&labelColor=505050&logo=github" alt="Seguidores no GitHub" /></a>
 </p>
 
 ---
@@ -57,18 +57,21 @@ Repositório: https://github.com/lenonrjdev/lenonrjdev
   <tr>
     <td width="60%" valign="top">
 
-## 💫 Sobre Mim
+<h2>💫 Sobre Mim</h2>
 
-- 🌱 Desenvolvedor em constante evolução, com ênfase em **Front-end**, arquitetura full stack e produtos digitais.
-- 🔭 Experiência prática com **Next.js, React, TypeScript, Tailwind CSS, Node.js, NestJS e PostgreSQL**.
-- ⚡ Trabalho com **SaaS, plataformas multi-tenant, dashboards administrativos, automações e IA aplicada**.
-- 🧠 Interesse em **arquitetura de software, agentes de IA, performance, acessibilidade e experiência do usuário**.
-- 🚀 Desenvolvimento de soluções digitais preparadas para crescer com segurança e escalabilidade.
+<ul>
+  <li>🌱 Desenvolvedor em constante evolução, com ênfase em <strong>Frontend</strong>, arquitetura full stack e produtos digitais.</li>
+  <li>🔭 Experiência prática com <strong>Next.js, React, TypeScript, Tailwind CSS, Node.js, NestJS e PostgreSQL</strong>.</li>
+  <li>⚡ Trabalho com <strong>SaaS, plataformas multi-tenant, dashboards administrativos, automações e IA aplicada</strong>.</li>
+  <li>🧠 Interesse em <strong>arquitetura de software, agentes de IA, performance, acessibilidade e experiência do usuário</strong>.</li>
+  <li>🚀 Desenvolvimento de soluções digitais preparadas para crescer com segurança e escalabilidade.</li>
+</ul>
 
-### Vamos conversar?
+<h3>Vamos conversar?</h3>
 
+<!-- CONTATOS — UMA ÚNICA LINHA -->
 <p align="left">
-  <a href="mailto:lenon.contato.dev@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>&nbsp;<a href="https://www.linkedin.com/in/lenon-cunha-1a211a357/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://github.com/lenonrjdev"><img height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:lenon.contato.dev@gmail.com"><img height="28" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>&nbsp;<a href="https://www.linkedin.com/in/lenon-cunha-1a211a357/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://github.com/lenonrjdev"><img height="28" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </td>
@@ -90,7 +93,7 @@ Repositório: https://github.com/lenonrjdev/lenonrjdev
 <!-- STACKS -->
 <div align="center">
 
-## 🧰 Tech & Tools
+<h2>🧰 Tech & Tools</h2>
 
 <br />
 
@@ -158,48 +161,30 @@ Repositório: https://github.com/lenonrjdev/lenonrjdev
 
 ---
 
-<!-- ESTATÍSTICAS -->
+<!-- ESTATÍSTICAS DO GITHUB -->
 <div align="center">
 
-  <h2>⚡ Status GitHub</h2>
+<h2>⚡ Status GitHub</h2>
 
-  <table width="100%" border="0" cellspacing="0" cellpadding="4">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/lenonrjdev">
-          <img
-            width="100%"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lenonrjdev&theme=github_dark"
-            alt="Estatísticas de Lenon Cunha no GitHub"
-          />
-        </a>
-      </td>
-
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/lenonrjdev?tab=repositories">
-          <img
-            width="100%"
-            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lenonrjdev&theme=github_dark"
-            alt="Linguagens mais utilizadas por Lenon Cunha"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <a href="https://github.com/lenonrjdev"><img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lenonrjdev&theme=github_dark" alt="Estatísticas de Lenon Cunha no GitHub" /></a>&nbsp;<a href="https://github.com/lenonrjdev?tab=repositories"><img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lenonrjdev&theme=github_dark" alt="Linguagens mais utilizadas por Lenon Cunha" /></a>
+</p>
 
 </div>
 
 ---
 
-## 📌 Principais Áreas de Interesse
+<h2>📌 Principais Áreas de Interesse</h2>
 
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS e Framer Motion.
-- **Backend:** Node.js, NestJS, FastAPI, APIs REST e sistemas multi-tenant.
-- **Dados:** PostgreSQL, Prisma, Redis, MinIO e Cloudinary.
-- **Infraestrutura:** Docker, Vercel, AWS, VPS e GitHub Actions.
-- **Arquitetura:** SaaS, filas assíncronas, autenticação, permissões e escalabilidade.
-- **IA aplicada:** agentes de IA, automações, sistemas assistidos por IA e integrações com LLMs.
-- **Qualidade:** acessibilidade, Core Web Vitals, SEO técnico e experiência do usuário.
+<ul>
+  <li><strong>Frontend:</strong> Next.js, React, TypeScript, Tailwind CSS e Framer Motion.</li>
+  <li><strong>Backend:</strong> Node.js, NestJS, FastAPI, APIs REST e sistemas multi-tenant.</li>
+  <li><strong>Dados:</strong> PostgreSQL, Prisma, Redis, MinIO e Cloudinary.</li>
+  <li><strong>Infraestrutura:</strong> Docker, Vercel, AWS, VPS e GitHub Actions.</li>
+  <li><strong>Arquitetura:</strong> SaaS, filas assíncronas, autenticação, permissões e escalabilidade.</li>
+  <li><strong>IA aplicada:</strong> agentes de IA, automações, sistemas assistidos por IA e integrações com LLMs.</li>
+  <li><strong>Qualidade:</strong> acessibilidade, Core Web Vitals, SEO técnico e experiência do usuário.</li>
+</ul>
 
 ---
 
@@ -213,7 +198,7 @@ Repositório: https://github.com/lenonrjdev/lenonrjdev
   <a href="https://github.com/lenonrjdev?tab=repositories">
     <img
       src="https://img.shields.io/badge/Explorar%20meus%20repositórios-111827?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explorar repositórios"
+      alt="Explorar meus repositórios"
     />
   </a>
 </p>
